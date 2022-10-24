@@ -35,3 +35,5 @@ private repo for learning python
   ```
   "python.terminal.activateEnvironment": true
   ```
+
+## [notes](https://github.com/zzhao2010/learning_python/blob/main/learning_python.ipynb)
